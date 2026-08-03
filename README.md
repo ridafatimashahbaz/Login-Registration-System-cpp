@@ -66,18 +66,20 @@ Login_And_Registration_System/
 ├── Code_Alpha_Login_And_Registration_System.cpp
 ├── username_output.txt
 └── README.md
-
+```
 ---
 
 ## 📚 What I Learned
 
 Through this project, I improved my understanding of:
 
-* File handling in C++
-* Reading and writing text files
-* User input validation
-* Program flow and menu-driven applications
-* Basic authentication logic
+- File handling in C++
+- Reading from and writing to text files
+- User authentication logic
+- Menu-driven programming
+- Input validation
+- Functions and modular programming
+- Problem-solving using C++
 
 ---
 
