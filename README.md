@@ -31,11 +31,20 @@ This project was created to strengthen my understanding of C++ programming by im
 
 ## ▶️ How to Run
 
-1. Open the project in Code::Blocks, Visual Studio, or another C++ IDE.
-2. Compile the source code.
-3. Run the executable.
-4. Register a new account.
-5. Log in using the registered credentials.
+### Requirements
+
+- Code::Blocks IDE (with the built-in GCC/G++ compiler)
+- Windows Operating System
+
+### Steps
+
+1. Download or clone this repository.
+2. Open the project in **Code::Blocks**.
+3. Make sure the project is using the **GCC/G++ compiler** included with Code::Blocks.
+4. Build and run the project by pressing **F9** or selecting **Build → Run**.
+5. Follow the on-screen instructions to register a new account or log in.
+
+> **Note:** This project was developed and tested using **Code::Blocks with the GCC/G++ compiler**. It may require modifications to compile correctly in other IDEs or compilers.
 
 ---
 
