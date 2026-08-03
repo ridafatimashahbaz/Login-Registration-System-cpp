@@ -23,9 +23,11 @@ This project was created to strengthen my understanding of C++ programming by im
 
 ## 🛠️ Technologies Used
 
-* C++
-* File Handling
-* Object-Oriented Programming (where applicable)
+- C++
+- Standard Template Library (STL)
+- File Handling
+- GCC/G++ Compiler
+- Code::Blocks IDE
 
 ---
 
@@ -53,12 +55,17 @@ This project was created to strengthen my understanding of C++ programming by im
 ```text
 Login_And_Registration_System/
 │
-├── Source.cpp
-├── UserData.txt
+├── images/
+│   ├── Main-Menu.png
+│   ├── Register.png
+│   ├── Login.png
+│   ├── Unsuccessful-Registration.png
+│   ├── UnsuccessfulLogin.png
+│   └── Exit.png
+│
+├── Code_Alpha_Login_And_Registration_System.cpp
+├── username_output.txt
 └── README.md
-```
-
-> Replace the filenames above if your project uses different names.
 
 ---
 
