@@ -83,3 +83,37 @@ Through this project, I improved my understanding of:
 BS Computer Science Student
 
 COMSATS University Islamabad, Lahore Campus
+
+## 📸 Screenshots
+
+### 🏠 Main Menu
+
+<p align="center">
+  <img src="images/Main-Menu.png" alt="Main Menu" width="65%">
+</p>
+
+---
+
+### 🔑 Registration & Login
+
+<p align="center">
+  <img src="images/Register.png" alt="Registration" width="45%">
+  <img src="images/Login.png" alt="Login" width="45%">
+</p>
+
+---
+
+### ✅ Results
+
+<p align="center">
+  <img src="images/Unsuccessful-Registration.png" alt="Registration Failed" width="45%">
+  <img src="images/UnsuccessfulLogin.png" alt="Login Failed" width="45%">
+</p>
+
+---
+
+### 🚪 Exit Screen
+
+<p align="center">
+  <img src="images/Exit.png" alt="Exit Screen" width="55%">
+</p>
